@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+
+section{
+    background: url('cover (2).jpg');
+    background-size: contain;
+    height: 100vh;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+
+.form-select{
+  width: 150px;
+  color: black;
+
+}
+
